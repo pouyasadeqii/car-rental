@@ -1,5 +1,5 @@
 # car-rental
 # responsive
 # sign-in with validation
-# use boxiconsfor icons
+# use boxicons for icons
 # use scrollreveal for scroll
