@@ -44,11 +44,7 @@ function signIn(event) {
         })
             .then(response => {
                 if(response.ok) {
-                    sigininMsg.innerText = "You signed in successfully"
-                    setTimeout(() => {
-                        window.location.href="file:///C:/Users/Pouya/Desktop/Car%20Rental%20Website/index.html";
-                        
-                    },2000);
+                    sigininMsg.innerText = "You signed in successfully";
                 }
             })
     }
